@@ -1,0 +1,5 @@
+.DS_Store
+.gems/
+.jekyll-cache/
+.bundle/
+_site/
