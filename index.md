@@ -48,7 +48,7 @@ Pokud chcete pomáhat jako dobrovolník, klikněte na tlačítko níže a vyplň
 
 ## O webu
 
-Na projektu spolupracují Farní sbor Českobratrské církve evangelické, Junák – český skaut, Ohlasy a Unijazz Boskovice.
+Na projektu spolupracují [Farní sbor Českobratrské církve evangelické](https://www.facebook.com/EvangeliciBoskovice/), Junák – český skaut, [Ohlasy](https://ohlasy.info) a [Unijazz Boskovice](https://www.prostor.wtf).
 Chcete nám s ním pomoct? Stačí se [přidat k nám do chatu](https://join.slack.com/t/koronabce/shared_invite/zt-ibg4iiw3-nB5d3B53aBkI_tcN0C1eqA)!
 
 <pomahame@prostor.wtf>
