@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pomáháme Boskovicím
-description: Aktuální informace o koronaviru na Boskovicku
+description: Aktuální informace o koronaviru na Boskovicku, koordinace dobrovolnické pomoci
 ---
 
 # Pomáháme Boskovicím
