@@ -22,7 +22,7 @@ V tuto chvíli je nejdůležitější chránit nejrizikovější skupiny obyvate
 
 ## Zapojte se!
 
-Pokud chcete pomáhat jako dobrovolník, klikněte na tlačítko níže a vyplňte formulář. Ozveme se vám, když bude potřeba.
+Našim cílem je propojit ty, kdo potřebují pomoc, s těmi, kdo ji mohou nabídnout. Proto vytváříme databázi pomáhajících. Pokud jste ochotni nabídnout svou pomoc, zaregistrujte se.
 
 <form action="https://bit.ly/pomahejbce">
     <input type="submit" value="Nabízím pomoc" />
